@@ -1,1 +1,1 @@
-## Prediction with LSTM
+## Predictions with LSTM
